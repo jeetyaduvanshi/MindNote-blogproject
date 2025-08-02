@@ -1,3 +1,2 @@
 # MindNote-blogproject
-This is my first Git Project Repository.
-/n Author Name - jeet yaduvanshi
+This is my first Git Project Repository.<br> Author Name - jeet yaduvanshi
